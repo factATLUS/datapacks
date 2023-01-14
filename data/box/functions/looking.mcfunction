@@ -12,4 +12,4 @@ execute if score @r open_shulker_box matches 1 run function box:put_in
 scoreboard players set @a open_shulker_box 0
 kill @e[type=marker,tag=looking]
 
-advancement revoke @a only box:tick
+advancement revoke @r only box:tick
