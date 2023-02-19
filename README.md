@@ -2,4 +2,4 @@
 datapack of Minecraft
 
 ## how to use
-If you open a shulker box while you hold it in your offhand, it will enter into the open box.
+If you open a shulker box with an item of shulker box in your offhand, it will enter the open box.
